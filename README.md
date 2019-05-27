@@ -29,5 +29,4 @@ input('Enter anything after entering number to form')
 code = sms_client.wait_code_from_transaction()
 
 ```
-
 You can see other usage example in `examples`
